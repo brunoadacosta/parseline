@@ -2,7 +2,7 @@ require 'rubygems'
 
 spec = Gem::Specification.new do |s|
   s.name = 'parseline'
-  s.version = "1.0.3"
+  s.version = "1.0.4"
   s.authors = ["Shairon Toledo"]
   s.email = "shairon.toledo@gmail.com"
   s.homepage = "http://parseline.rubyforge.org/"
